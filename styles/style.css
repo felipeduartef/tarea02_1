@@ -1,0 +1,21 @@
+#titulo {
+    text-align: center;
+}
+
+#Parrafo{
+    text-align: center;
+}
+body{font-size: 18px;
+    font-family: Tahoma;
+    color:rebeccapurple;
+    background-color: mediumpurple;
+    margin-inline-start: 1.5;
+}
+th {
+    margin: 50px;
+}
+table{
+    margin: 10px;
+    text-align: center;
+}
+
